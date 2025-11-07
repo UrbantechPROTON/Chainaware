@@ -1,0 +1,21 @@
+Estructura del Proyecto
+
+chainaware/
+├── 📄 index.html              # Página principal del dashboard
+├── 📄 app.js                  # Lógica de la aplicación Vue
+├── 📄 main.css                # Estilos completos con tema oscuro
+├── 📄 package.json            # Dependencias y scripts npm
+├── 📄 requirements.txt        # Dependencias Python
+├── 📄 deploy.py              # Script de deployment completo
+├── 📄 README.md              # Documentación técnica
+├── 📄 DEMO.md                # Guía de demostración
+├── 📄 .gitignore             # Configuración Git
+├── 📁 contracts/
+│   └── 📄 chainaware_traceability.py  # Contrato inteligente principal
+├── 📁 config/
+│   ├── 📄 genlayer.conf       # Configuración de GenLayer
+│   └── 📄 deploy.json         # Configuración de deployment
+├── 📁 test/
+│   └── 📄 test_chainaware.py  # Suite de pruebas completa
+└── 📁 src/styles/
+    └── 📄 main.css            # Estilos de la aplicación
