@@ -1,0 +1,33 @@
+Tecnologias Utilizadas
+
+Frontend:
+
+
+    Vue.js 3.3 + Pinia (Gestión de estado)
+
+    Chart.js (Visualizaciones)
+
+    Leaflet (Mapas interactivos)
+
+    Lucide Icons (Iconografía)
+
+
+Backend/Smart Contracts:
+
+
+    GenLayer v0.18.3 (Contratos inteligentes con IA)
+
+    Python 3.9+ (Lógica de negocio)
+
+    Pydantic (Validación de datos)
+
+
+IA y Análisis:
+
+
+    OpenAI API (Procesamiento de lenguaje natural)
+
+    NumPy/Pandas (Análisis de datos)
+
+    Scikit-learn (Machine learning)
+
